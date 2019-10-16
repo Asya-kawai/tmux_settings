@@ -26,7 +26,6 @@ and also uses simple status bar and colors.
 ## Usage
 
 * Put .tmux.conf ~/.
-* tmux start
 
 ## Install
 
