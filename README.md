@@ -18,7 +18,7 @@ and also uses simple status bar and colors.
 
 | KeyBinding | Action |
 ----|---- 
-| Ctrl-t + i | Join the pane to dst-pane |
+| Ctrl-t + j | Join the pane to dst-pane |
 | Ctrl-t + J | Join the pane from src-pane |
 
 | KeyBinding | Action |
