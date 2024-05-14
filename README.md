@@ -18,6 +18,11 @@ and also uses simple status bar and colors.
 
 | KeyBinding | Action |
 ----|---- 
+| Ctrl-t + i | Join the pane to dst-pane |
+| Ctrl-t + J | Join the pane from src-pane |
+
+| KeyBinding | Action |
+----|---- 
 | Ctrl-t + + | Extend the pane to the top |
 | Ctrl-t + - | Extend the pane to the bottom |
 | Ctrl-t + < | Extend the pane to the left |
